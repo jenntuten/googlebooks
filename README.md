@@ -1,2 +1,2 @@
 # reactreadinglist
-https://desolate-garden-50773.herokuapp.com/search
+https://desolate-garden-50773.herokuapp.com/
